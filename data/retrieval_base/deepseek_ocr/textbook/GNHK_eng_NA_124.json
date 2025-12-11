@@ -1,0 +1,6 @@
+[
+  {
+    "page_idx": 0,
+    "text": "# HMM Training\n\n## ① Initialization\n1. Samples (\\(S = 12\\)) → divide into \\(N\\) initial states (evenly)\n2. Calculate Avg length of each state  \n   (\\(l_0, l_1, \\ldots, l_N\\))\n3. Calculate initial transition prob  \n   \\[   P_{ij} = \\frac{1}{l_{ij}}\\]\n   (\\(P_{01}, P_{02}, \\ldots, P_{0N}\\))\n4. Calculate \\(\\mu, \\sigma\\) for each state  \n   (\\(M_0, \\ldots, M_N / \\sigma_0, \\ldots, \\sigma_N\\))\n\n## ② Loops (\\(1, 2, \\ldots, t\\))\n1. For each point (near boundary), compare  \n   divide if to move \\(x\\) to another state  \n   \\[   \\frac{x - \\mu_k}{\\sigma_k} \\quad \\text{vs} \\quad \\frac{x - \\mu_{k+1}}{\\sigma_{k+1}}\\]\n2. Calculate Avg length of each state (\\(L_1, L_2, \\ldots, L_N\\))\n3. Calculate transition prob (\\(P_{11}, P_{12}, \\ldots, P_{1N}\\))\n4. Calculate \\(\\mu, \\sigma\\) for each state  \n   (\\(M_{11}, \\ldots, M_{1N} / \\sigma_{11}, \\ldots, \\sigma_{1N}\\))\n\nif boundaries don't change => converge!\n\n---\n\n* Note that each state must have \\(\\geq 1\\) point!"
+  }
+]

@@ -1,0 +1,6 @@
+[
+  {
+    "page_idx": 0,
+    "text": "# 有道精品课\n\n## 48\n\n### 本题：DEI/BC  \n\\[\\angle 1 = \\angle 2 \\quad \\text{又} \\quad \\angle CA = \\angle A\\]\n\n\\[\\triangle ADE \\sim \\triangle ABC\\]\n\n\\[\\frac{AP}{AB} = \\frac{2}{3} \\quad \\text{为相似比}\\]\n\n\\[\\frac{S_{\\triangle ADE}}{S_{\\triangle ABC}} = \\left( \\frac{2}{3} \\right)^2 = \\frac{4}{9}\\]\n\n设  \n\\[S_{\\triangle ADE} = 4X, \\quad S_{\\triangle ABC} = 9X\\]\n\n\\[\\therefore S_{\\triangle ADE} \\text{和} S_{\\triangle DBCE} = 9X - 4X = 5X\\]\n\n\\[\\therefore \\frac{S_{\\triangle ADE}}{S_{\\triangle DBCE}} = \\frac{4X}{5X} = \\frac{4}{5}\\]\n\n---\n\n5. 如图，在 \\(\\triangle ABC\\) 中，点 \\(D\\) 分别在 \\(AB\\) 和 \\(AC\\) 上，  \nDE // BC，\\(M\\) 为 \\(BC\\) 边一点（不与点 \\(B, C\\) 重合），连 \\(AM\\)  \n交 \\(DE\\) 于点 \\(N\\)。  \n\n![图形]\n\n- \\(A\\): \\(\\frac{AD}{AN} = \\frac{AN}{AE}\\)  \n- \\(B\\): \\(\\frac{BD}{MN} = \\frac{AN}{CE}\\)  \n- \\(C\\): \\(\\frac{DN}{BM} = \\frac{NE}{AC}\\)  \n- \\(D\\): \\(\\frac{DN \\cdot AE}{AC \\cdot BN}\\)  \n\n---\n\n（微信公众号：实用视界）免费分享"
+  }
+]

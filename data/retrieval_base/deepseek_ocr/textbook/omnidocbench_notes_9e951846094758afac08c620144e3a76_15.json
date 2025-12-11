@@ -1,0 +1,6 @@
+[
+  {
+    "page_idx": 0,
+    "text": "53  \n记住这个公式你就可以算！  \n\n海伦公式：  \n\\[ S = \\sqrt{P(P-a)(P-b)(P-c)} \\]  \n(P为：  \n\\[ P = \\frac{a+b+c}{2}, \\quad a, b, c \\]  \n为三角形边长)  \n\n那么：  \n\\[ S_{\\triangle ADC} = \\sqrt{\\frac{1}{2} \\cdot (\\frac{1}{2} - a) \\cdot (\\frac{1}{2} - b) \\cdot (\\frac{1}{2} - c)} \\]  \n\\[ P = \\frac{2+4+5}{2} = \\frac{11}{2} \\]  \n\\[ = \\sqrt{\\frac{11}{2} \\cdot \\frac{7}{2} \\cdot \\frac{3}{2} \\cdot \\frac{1}{2}} \\]  \n\\[ = \\frac{\\sqrt{231}}{4} \\]  \n\n\\[ S_{\\triangle ADC} = \\frac{1}{2} \\times CQ \\times DP \\]  \n\\[ = \\frac{1}{2} \\times 2 \\times DP = DP \\]  \n\n\\[ DP = \\frac{\\sqrt{231}}{4} \\]  \n根据 ①  \n\n\\[ S_{\\triangle ABC} = 9 \\times \\text{高} = 9DP = \\frac{9\\sqrt{231}}{4} \\]  \n\n根据 (△)  \n\\[ \\frac{S_{\\triangle ABD}}{S_{\\triangle MAB} + S_{\\triangle ABD}} = \\frac{16}{25} \\]  \n\n\\[ \\Rightarrow S_{\\triangle MAB} = 4\\sqrt{231} \\quad (\\text{end!}) \\]  \n\n（微信公众号：实用视界）免费分享"
+  }
+]

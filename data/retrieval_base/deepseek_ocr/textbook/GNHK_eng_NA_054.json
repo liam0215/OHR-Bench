@@ -1,0 +1,6 @@
+[
+  {
+    "page_idx": 0,
+    "text": "2 + max value  \nfunction definition  \nspd  \n\nconst int 2  \nreturn min;  \n\nvoid main()  \n{  \n    the general & max value (int & max)  \n    {  \n    (10 max);  \n    }  \n    printf(\"max value is %d\", max);  \n}"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "page_idx": 0,
+    "text": "PROJECTION DRAWING.\n\nPRINCIPLES OF PROJECTION.\n\n8. **Projection Drawing** is the science and art of producing drawings which shall represent completely all facts of position, form and magnitude of all geometrical quantities in space.\n\n9. The **Methods** employed in Projection Drawing, are those of \"Orthographic Projection,\" which is the basis of the science of *Descriptive Geometry*.\n\nFUNDAMENTAL IDEAS OF PROJECTION.\n\n10. In Projection Drawing, all objects are represented by their **projections** upon fixed planes of reference. Hence an understanding of the geometrical meaning of the term \"projection\" is essential.\n\n11. From Geometry we have: \"The **projection** of a point upon a straight line is the foot of the perpendicular dropped from the point upon the line.\"\n\nThus:\n\n*Figure 1.*"
+  },
+  {
+    "page_idx": 1,
+    "text": "Let $AB$ be any straight line, and $P$ any point not in the line. Let $P$ be perpendicular to $AB$. Then $P$ is the projection of $P$ upon the line $AB$.\n\n12. Similarly: \"The projection of a point upon a plane is the foot of a perpendicular from the point to the plane.\n\nThus:\n\n![Figure 2.](image)\n\n$P$ is a point in space, and $P$ a perpendicular from $P$ upon the plane $ABCD$. $P$ is the projection, then, of $P$ upon the plane.\n\n13. The projection of any line, or surface, or solid, may be found by finding the projections of all of its points. For lines and surfaces are but successions of points, and solids are bounded by surfaces.\n\n**APPLICATION OF PROJECTION TO DRAWING.**\n\n14. Now consider two mathematical planes of indefinite extent, intersecting each other at right angles, fixed in position, one horizontal and the other vertical. Let the following figure represent limited portions of these two planes:"
+  },
+  {
+    "page_idx": 2,
+    "text": "Let the vertical plane be denoted by \\( I' \\) and the horizontal plane by \\( H \\), and their line of intersection by \\( GL \\).\n\n15. Now imagine a point to be situated in space in one of the angles of these two planes, as shown in Fig. 4:\n\nFigure 4."
+  },
+  {
+    "page_idx": 3,
+    "text": "21. When the two planes have been made to coincide, they, with the projections of the point, may be brought into the plane of the paper, and will appear as shown in Fig. 5:\n\n\\[\n\\begin{array}{c}\n\\text{Figure 5.} \\\\\n\\end{array}\n\\]\n\nThe line of intersection \\( GL \\), is placed horizontal on the drawing, with the projections upon the vertical plane above, and those upon the horizontal plane below it.\n\n**NOTATION.**\n\n**TERMS EMPLOYED.**\n\n22. For convenience and brevity the following terms are used:\n\n(1) The two fixed planes are called \"the planes of projection,\" or \"the co-ordinate planes,\" or \"the planes of reference.\"\n\n(2) The vertical plane of projection is called simply \"the vertical plane,\" or commonly, \"V.\"\n\n(3) The other is called \"the horizontal plane,\" or simply, \"H.\"\n\n(4) The line of intersection of the two planes is called \"the ground line,\" or briefly, \"GL.\""
+  },
+  {
+    "page_idx": 4,
+    "text": "Figure 6.\n\n99. A single projection is sufficient here. From it. Fig. 6, get the \"co-ordinates\" \\( Oa \\) and \\( ab \\) of point \\( b \\); and \\( Od \\) and \\( dc \\) of any point \\( C \\) of the edge \\( FH \\).\n\nConstruct the isometric drawing of the horizontal piece \\( OS \\). Then along \\( OG \\) on the drawing, lay off \\( Oa \\) from \\( O \\), and from \\( a \\) downward lay off \\( ab \\). This gives the lines \\( Fb \\) and \\( bR \\), as \\( F \\) and \\( R \\) are on the isometric line and can be laid off at once.\n\nNext, to get the inclination of the other piece, lay off \\( Od \\) from \\( O \\) along \\( OG \\), and upward lay off \\( dC \\). Then there are two points determined and \\( FH \\) can be drawn.\n\n\\( RK \\) is parallel to \\( FH \\) on the object, hence will be on the drawing.\n\nThe widths of the pieces are shown as usual. In this way the complete isometric drawing is readily constructed.\n\n100. By a similar use of co-ordinates obtained from the ordinary projections, the isometric drawing of anything may be constructed.\n\nSHADE LINES.\n\n101. Shade lines are placed in isometric drawings."
+  }
+]

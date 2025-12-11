@@ -1,0 +1,6 @@
+[
+  {
+    "page_idx": 0,
+    "text": "P_{min} = 0.5 \\times P_{min} \\quad \\text{dmps} \\quad \\text{до} \\quad P_{min}\n\nP_{min} = 0.5 \\times P_{min} \\quad \\text{до} \\quad P_{min}\n\nP_{min} = \\frac{0.5 \\times P_{min}}{0.5} \\quad \\text{до} \\quad P_{min}\n\nP_{min} = P_{min} \\quad \\text{до} \\quad P_{min}\n\nP_{max} = 0.5 \\times P_{max} \\quad \\text{до} \\quad P_{max}\n\nP_{max} = 0.5 \\times P_{max} \\quad \\frac{0.5 \\times P_{max}}{0.5} \\quad \\text{до} \\quad P_{max}\n\nP_{max} = P_{max} \\quad \\text{до} \\quad P_{max}\n\nP_{min} = 0.5 \\times P_{min} \\quad \\frac{0.5 \\times P_{min}}{0.5} \\quad \\frac{0.5 \\times P_{min}}{0.5}"
+  }
+]

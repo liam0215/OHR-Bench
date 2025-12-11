@@ -1,0 +1,6 @@
+[
+  {
+    "page_idx": 0,
+    "text": "# Revision\n\nThe table below shows selected fields and data types in Micro-SQL access. Use it to create the following questions.\n\n| Field    | Data types    |\n|---|---|\n| FullName    | Text    |\n| NationalNo    | Number    |\n| BOB    | Date and time    |\n| Fees    | Number    |\n| Address    | Text    |\n\n1) What is the appropriate Data type for the fields?\n\n2) If a 8-Access is running, describe the procedure to:\n\n3) Create a table with fields above\n\n4) Set the primary key as not no"
+  }
+]
